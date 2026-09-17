@@ -214,3 +214,6 @@ Sonic Visualiser is offered as a complete free version, including all features a
 ---
 
 Unlock the full potential of your audio files today! Download Sonic Visualiser now and elevate your sound analysis experience.
+
+---
+**Last updated:** 2026-09-17 21:55:07 UTC
